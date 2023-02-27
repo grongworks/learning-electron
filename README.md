@@ -15,3 +15,6 @@ npm init electron-app@latest my-awesome-app-name
 
 ## Aktuellste Variant des main-Prozesses
 zu finden unter: https://www.electronjs.org/docs/tutorial/quick-start
+
+## Electron API
+https://www.electronjs.org/docs/latest/api/app
