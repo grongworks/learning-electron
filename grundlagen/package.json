@@ -1,0 +1,15 @@
+{
+  "name": "grundlagen",
+  "version": "1.0.0",
+  "description": "Unsere erste Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "GrongWorks",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.1"
+  }
+}
